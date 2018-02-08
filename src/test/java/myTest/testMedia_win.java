@@ -10,7 +10,6 @@ public class testMedia_win {
 
 public static void main(String[] args) throws IOException
 {
-	//FFmpeg ffmpeg = new FFmpeg("C:\\Users\\nbhushan\\Documents\\ffmpeg-3.4.1\\ffmpeg\\bin\\ffmpeg.exe");
 	FFprobe ffprobe = new FFprobe("C:\\Users\\nbhushan\\Documents\\FFprobe\\ffprobe.exe");
 	FFmpegProbeResult probeResult = ffprobe.probe("C:\\Users\\nbhushan\\Documents\\testData\\DreamLooks.MP4");
 
