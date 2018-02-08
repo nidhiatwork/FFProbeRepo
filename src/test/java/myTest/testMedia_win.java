@@ -6,6 +6,11 @@ import net.bramp.ffmpeg.probe.FFmpegFormat;
 import net.bramp.ffmpeg.probe.FFmpegProbeResult;
 import net.bramp.ffmpeg.probe.FFmpegStream;
 
+/**
+ * To get media information
+ * @author nbhushan
+ *
+ */
 public class testMedia_win {
 
 public static void main(String[] args) throws IOException
