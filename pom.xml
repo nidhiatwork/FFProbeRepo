@@ -10,16 +10,15 @@
 
     <name>FFmpeg Wrapper</name>
     <description>Simple Java wrapper around FFmpeg command-line interface</description>
-    <url>https://github.com/bramp/ffmpeg-cli-wrapper</url>
+    <url>https://github.com/nidhiatwork/FFProbeRepo.git</url>
 
     <scm>
-        <url>https://github.com/bramp/ffmpeg-cli-wrapper</url>
+        <url>https://github.com/nidhiatwork/FFProbeRepo.git</url>
         <connection>scm:git:git@github.com:bramp/ffmpeg-cli-wrapper.git</connection>
         <tag>HEAD</tag>
     </scm>
     
     <issueManagement>
-        <system>GitHub</system>
         <url>https://github.com/bramp/ffmpeg-cli-wrapper/issues</url>
     </issueManagement>
 
